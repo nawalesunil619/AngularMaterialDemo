@@ -6,15 +6,15 @@ Angular Material Demo
 [![devDependencies Status](https://david-dm.org/aveferrum/angular-material-demo/dev-status.svg)](https://david-dm.org/aveferrum/angular-material-demo?type=dev)
 ![](https://travis-ci.org/aveferrum/angular-material-demo.svg?branch=master)
 
-NOTE: This is an updated version of the original code, https://github.com/jelbourn/material2-app
+NOTE: This is an updated version of the code, 
 Please check the package.json & CHANGELOG.md file for what's updated.
 See it live: https://angular-material-demo.firebaseapp.com/
 
 # Installation
 
 	$ cd ~/
-	$ git clone git@github.com:aveferrum/angular-material-demo.git
-    $ cd angular-material-demo
+	$ git clone https://github.com/nawalesunil619/AngularMaterialDemo.git
+    $ cd angular-material-demo-master
     $ npm install
     $ ng serve
 
